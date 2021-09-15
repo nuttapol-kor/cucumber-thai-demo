@@ -1,2 +1,2 @@
 # Cucumber Demo
-I try to use cucumber in thai languages
+I try to use cucumber in thai language
